@@ -1,0 +1,11 @@
+{
+  "name": "nexus-social",
+  "version": "1.0.0",
+  "description": "Nexus Social Media Prototype – Timothy Rollings / Legacy Media Co.",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
